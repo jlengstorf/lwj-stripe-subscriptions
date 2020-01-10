@@ -1,0 +1,17 @@
+{
+  "name": "site",
+  "version": "0.0.1",
+  "main": "gatsby-config.js",
+  "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.18.20",
+    "gatsby-plugin-stripe": "^1.2.3",
+    "gatsby-theme-stripe-subscriptions-base": "*",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
